@@ -9,6 +9,11 @@ namespace _511_oop
     {
         static void Main(string[] args)
         {
+            int a = 0;
+            // абстракция
+            // инкопсуляция
+            // наследование
+            //
         }
     }
 }
